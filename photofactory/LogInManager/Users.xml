@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<users>
+    <user username="miklealex">
+        <password>123Misha098</password>
+        <registerDate>2018-Apr-01</registerDate>
+        <UserInfo>
+            <name>Misha</name>
+            <surname>Oleksyn</surname>
+            <dateOfBirth>24.11.1996</dateOfBirth>
+            <bornTown>Lviv</bornTown>
+            <bornCountry>Ukraine</bornCountry>
+            <phoneNumber>+380936412622</phoneNumber>
+            <email>miklealex73@g,ail.com</email>
+            <sex>0</sex>
+        </UserInfo>
+    </user>
+</users>
